@@ -1,11 +1,11 @@
 import random
-
+# allow program to take user input
 while True:
     user_action = input("Enter a choice (rock, paper, scissors): ")
     possible_actions = ["rock", "paper", "scissors"]
     computer_action = random.choice(possible_actions)
     print(f"\nYou chose {user_action}, computer chose {computer_action}.\n")
-
+# results of the game varies by the rules of rock, paper, scissors
     if user_action == computer_action:
         print(f"Both players selected {user_action}. It's a tie!")
     elif user_action == "rock":
@@ -23,7 +23,7 @@ while True:
             print("Scissors cuts paper! You win!")
         else:
             print("Rock smashes scissors! You lose.")
-
+# game ends when user selects if they want not play again
     play_again = input("Play again? (y/n): ")
     if play_again.lower() != "y":
         break
