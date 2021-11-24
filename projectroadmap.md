@@ -1,10 +1,37 @@
+Sprint 1:
 
-x Each person should have an approved project topic.
+ Create and turn in project topic
+ 
+ Join KSU-IS organization
+ 
+ Create code repository in organization
+ 
+ Create readme.md file
+ 
+ Create projectroadmap.md file
+ 
+ Find related Python code base
+ 
+Sprint 2:
 
-x Each person should have established a Github account and joined our class organization (KSU-IS) in Github by accepting the invite email.
+ Begin coding
+ 
+ Make small updates and add commit messages
+ 
+ Commit at least 6 code changes
+ 
+ Track progress in project road map
 
-x Each person should also be associated with ownership of a code repository in our Github organization. If on a team, ensure each has Owner or Maintainer Role.
+Sprint 3:
 
-x Each person should have edited and committed changes in a readme.md file in their repository in our Github organization. The commits should show in Github.
+ Continue coding, refining, and testing
+ 
+ Create one powerpoint slide introducing project
+ 
+ Upload PPT slide to Github and D2L
+ 
+Final Presentation:
 
-x Each person should have explored at least one existing Python code base related to their project to evaluate using it in their project and submitted updates to the projectroadmap.md file explaining their findings. In evaluating your codebase, you should have read the code and attempted to run it yourself. https://github.com/MilaBooot/Breast-Cancer-Screening-and-Detection-Using-PYQT5-GUI
+ Schedule and record presentation in the Teams Project channel
+ 
+ Post screenshot of presentation, presentation link, and PPT in D2L
